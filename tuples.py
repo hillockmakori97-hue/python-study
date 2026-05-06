@@ -1,0 +1,6 @@
+days_of_the_week=("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+print(type(days_of_the_week))
+print(days_of_the_week[6])
+print(days_of_the_week[4:7])
+list(days_of_the_week)
+print(type(days_of_the_week))
